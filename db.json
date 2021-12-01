@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Adnan Mustapha Modibbo",
+      "age": 7
+    },
+    {
+      "name": "Muhammed",
+      "age": 37,
+      "id": 2
+    },
+    {
+      "name": "Aisha Mai",
+      "age": 29,
+      "id": 3
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 4
+    },
+    {
+      "name": "Ashman Modibbo",
+      "age": 37,
+      "id": 5
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 6
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 7
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 8
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 9
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 10
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 11
+    },
+    {
+      "name": "Ayman Modibbo",
+      "age": 7,
+      "id": 12
+    },
+    {
+      "name": "Bello",
+      "age": 30,
+      "id": 13
+    }
+  ]
+}
